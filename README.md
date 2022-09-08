@@ -1,2 +1,2 @@
 # PSD-plot
-The is code can be used for plotting current scan(CS)
+The code can be used for plotting current scan(CS)
